@@ -1,6 +1,6 @@
-# Union Sentiment Analysis on Reddit — NLP Capstone
+# Union Sentiment Analysis on Reddit — NLP and Big Data
 
-This repository presents my capstone project for the CUNY M.S. in Data Science program, which analyzes labor-related sentiment on Reddit to understand public opinion on unionization, strike actions, and gig economy reform. The project combines traditional and modern NLP methods with a novel deep semantic clustering model.
+This repository presents my project for Machine Learning and Big Data class, which analyzes labor-related sentiment on Reddit to understand public opinion on unionization, strike actions, and gig economy reform in order to inform and refine orgnizing efforts. The project combines traditional and modern NLP methods with a novel deep semantic clustering model.
 
 ## Project Overview
 
