@@ -1,6 +1,6 @@
 # Union Sentiment Analysis on Reddit — NLP and Big Data
 
-This repository presents my project for Machine Learning and Big Data class, which analyzes labor-related sentiment on Reddit to understand public opinion on unionization, strike actions, and gig economy reform in order to inform and refine orgnizing efforts. The project combines traditional and modern NLP methods with a novel deep semantic clustering model.
+This repository contains analyzing labor-related sentiment on Reddit to understand public opinion on unionization, strike actions, and gig economy reform in order to inform and refine orgnizing efforts. The project combines traditional and modern NLP methods with a novel deep semantic clustering model.
 
 ## Project Overview
 
@@ -11,10 +11,9 @@ This repository presents my project for Machine Learning and Big Data class, whi
 
 ## Author
 AJ Strauman-Scott
-M.S. in Data Science, City University of New York
-📍 New York, NY
-📫 ajstraumanscott@pm.me
-🔗 [LinkedIn](www.linkedin.com/in/ajstraumanscott) • [GitHub](https://github.com/ajsscott)
+Data Scientist | Storyteller | ML & Geospatial Modeling
+ajstraumanscott@pm.me
+[LinkedIn](www.linkedin.com/in/ajstraumanscott) • [GitHub](https://github.com/ajsscott)
 
 ## Techniques Used
 -    Text preprocessing with spaCy
@@ -24,11 +23,9 @@ M.S. in Data Science, City University of New York
 
 ## Quick Links
 
-- 📄 [Academic Report](./report/StraumanScott_622_NLP_Reddit_Union_Sentiment.pdf)
-- 📓 [Notebooks](./notebooks)
-- 🧠 [Source Code](./src)
-- 🗃️ [Sample Data](./data/sample_inputs)
-
+- [Academic Report](./StraumanScott_622_NLP_Reddit_Union_Sentiment.pdf)
+- [Notebooks](./notebooks)
+- [Source Code](./src)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
